@@ -1,0 +1,7 @@
+[Database]
+Engine = sqlite://
+
+[Notifications]
+Sender = +XXYYYYYYYYY
+Receiver = +XXYYYYYYYYY
+ConfigPath = ~/.local/share/signal-cli
