@@ -8,7 +8,7 @@ Assumptions:
 
 A notification is sent every time the website is updated and the change is not yet stored in a database.
 
-To set things up, install `signal-cli` in a way that it is available in your path to be called. Link to your Signal account.
+To set things up, install `signal-cli` in a way that it is available in your path to be called. Link to your Signal account. Most of these you can find in the [`signal-cli` docs](https://github.com/AsamK/signal-cli#readme).
 
 Copy `scraper.ini.template` to `scraper.ini` and update the relevant values (database, sender and receiver phone number, Signal config path).
 
